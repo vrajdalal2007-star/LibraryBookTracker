@@ -1,0 +1,1 @@
+Simple way to search for books/author is to search in the sections in which they are present, in the list provided by the librarian
